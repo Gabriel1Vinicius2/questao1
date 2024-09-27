@@ -4,5 +4,8 @@
     </body>
 </html>
 
+<<<<<<< HEAD
 <p>Conteúdo adicional</p>
 <p>Outra linha</p>
+=======
+>>>>>>> teste
